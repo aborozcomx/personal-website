@@ -14,7 +14,7 @@ import { reactive } from 'vue'
 
 const personalInformation = reactive({
   username: '@aborozcomx',
-  description: 'Frontend Develop at Plerk',
+  description: 'Frontend Developer at Devtzal',
   image: logo
 });
 
